@@ -1,6 +1,5 @@
 <div align="center">
   <h3>Skills Charts</h3>
-  <img height="250" src="" />
 
 ---
 
