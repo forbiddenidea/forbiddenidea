@@ -1,14 +1,4 @@
 <div align="center">
-  <h3> </> Hello I'm ForbiddenIdea - Developer, Coding and Dev</h3>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=forbiddenidea&theme=windows-dark&border_radius=25" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-<div align="center">
 
 <h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,crystal,clojure,coffeescript,css,dart,elixir,forth,fortran,go,gherkin,haskell,haxe,html,java,js,kotlin,less,lua,md,matlab,mint,nim,ocaml,perl,ps,php,pug,py,r,ruby,rust,sass,scala,solidity,swift,ts,v,vala,wasm,zig" />
@@ -82,7 +72,7 @@
 
 ---
 
-- ### **📫 Contact** :
+<h3>- ### **📫 Contact** :</h3>
 - Telegram : n0vbv
 - Discord : xzint
 - Instagram : 
