@@ -72,10 +72,11 @@
 
 ---
 
-<h3>- ### **📫 Contact** : </h3>
-<h3>- Telegram : n0vbv </h3>
-<h3>- Discord : xzint </h3>
-<h3>- Instagram : </h3>
-<h3>- Tiktok : </h3>
-<h3>- Snapchat : </h3>
-
+<h3>
+- ### **📫 Contact** : 
+- Telegram : n0vbv 
+- Discord : xzint 
+- Instagram : 
+- Tiktok : 
+- Snapchat : 
+</h3>
